@@ -1,4 +1,4 @@
-# nfl2021_BigDataBowl
+# NFL Pass Result Predictor
 
 ## Inspiration:
 The NFL Big Data Bowl 2021 challenges individuals to identify unique and impactful approaches to measure defensive performance of drop-back plays from the 2018 regular season. Although the challenge is open ended, the NFL wants to explore what the data tell us about defending the pass play.
